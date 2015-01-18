@@ -1,0 +1,8 @@
+params:
+  iterations: 10
+  dimensions: 50
+  population: 50
+  red_population: 100
+  blue_population: 100
+  red_expectation: 30
+  blue_expectation: 30
